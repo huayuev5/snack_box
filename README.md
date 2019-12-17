@@ -1,2 +1,2 @@
 # snack_box
-there are always has snack satisfied you
+there will always has snack satisfied you
